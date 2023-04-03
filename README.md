@@ -4,7 +4,7 @@ I'm an undergraduate at the Department of Computer Science and Engineering, Univ
 ## 🔭 Current Projects
 Here are some of the projects I'm currently working on:
 
-* [IFS x Hatch ChallengerX Program](https://ifs-challengerx.hatch.lk/) - An AI ML Incubator which focuses on improving Predictive Modelling systems capable of maximizing the readiness of organizations in the service industry to face unforeseen circumstances, such as natural disasters..
+* [IFS x Hatch ChallengerX Program](https://ifs-challengerx.hatch.lk/) - An AI ML Incubator which focuses on improving Predictive Modelling systems capable of maximizing the readiness of organizations in the service industry to face unforeseen circumstances such as natural disasters.
 * PeoTV App - An Android app running on SLT PeoTV smart TV boxes aimed at improving user viewing experience.
 
 ## 🌱 Recent Learning
