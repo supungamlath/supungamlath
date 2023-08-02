@@ -18,5 +18,3 @@ I love connecting with others and hearing about their experiences. You can reach
 
 * [GitHub](https://github.com/supungamlath)
 * [LinkedIn](https://www.linkedin.com/in/supungamlath)
-
-Thanks for checking out my GitHub profile! 
