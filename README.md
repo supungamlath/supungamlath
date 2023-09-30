@@ -1,5 +1,7 @@
 # Hi there, I'm Supun Gamlath 👋
-I'm an undergraduate at the Department of Computer Science and Engineering, University of Moratuwa. I'm passionate about artificial intelligence and robotics programming. I love to collaborate with others and continuously expand my knowledge. When I'm not buried under university studies, you'll catch me hiking with buddies, diving into hackathons, or tinkering away on some cool project.
+I'm an undergraduate at the Department of Computer Science and Engineering, University of Moratuwa. I'm passionate about artificial intelligence and robotics programming. I love to collaborate with others and continuously expand my knowledge. 
+
+When I'm not buried under university studies, you'll catch me hiking with buddies, diving into hackathons, or tinkering away on some cool project!
 
 ## 🔭 Current Projects
 Here is the latest project I'm working on:
@@ -9,16 +11,16 @@ Here is the latest project I'm working on:
 ## 🚀 Recent Projects
 Here are some of the recent projects I completed:
 
-* [Fall Detection App](https://fall-detection.streamlit.app/) - Developed a Streamlit app built with openpifpaf and PyTorch utilizing a LSTM model for human fall detection.
+* [Fall Detection App](https://fall-detection.streamlit.app/) - Developed a Streamlit app with openpifpaf and PyTorch utilizing a LSTM model for human fall detection.
 * [IFS x Hatch ChallengerX Program](https://ifs-challengerx.hatch.lk/) - AI/ML Incubator program by IFS and Hatch focusing on developing models to predcit damage caused by natural disasters.
 * [Asia Pacific RoboCon 2023](https://www.aburobocon2023.com/) - International Robotics competition held this year in Phnom Penh, Cambodia. Our team was selected to represent Sri Lanka and we developed two robots : 
 
 ## 🌱 Recent Learning
 I'm always learning and trying to improve my skills. Here are some of the things I've been learning recently:
 
+* Deep Learning - Following the Coursera specialization by DeepLearning.AI
 * Robotics - Completed ROS2 Foxy course on Udemy. 
 * Machine Learning - Completed machine learning courses on Kaggle.
-* Deep Learning - Following the Coursera specialiazation by DeepLearning.AI
 
 ## 💬 Get in touch
 I love connecting with others and hearing about their experiences. You can reach me through:
