@@ -13,7 +13,7 @@ Here are some of the recent projects I completed:
 
 * [Fall Detection App](https://fall-detection.streamlit.app/) - Developed a Streamlit app with openpifpaf and PyTorch utilizing a LSTM model for human fall detection.
 * [IFS x Hatch ChallengerX Program](https://ifs-challengerx.hatch.lk/) - AI/ML Incubator program by IFS and Hatch focusing on developing models to predcit damage caused by natural disasters.
-* [Asia Pacific RoboCon 2023](https://supungamlath.github.io/rabbit-robot.html) - International Robotics competition held this year in Phnom Penh, Cambodia. Our team of 3 undergrads was selected to represent Sri Lanka and we developed two robots for the given task. I was responsible for constructing the "Rabbit Robot" and programming both robots.  
+* [Asia Pacific RoboCon 2023](https://supungamlath.github.io/rabbit-robot.html) - International Robotics competition held in Phnom Penh, Cambodia. Our team of 3 undergrads was selected to represent Sri Lanka and we developed two robots for the given task. I was responsible for constructing the "Rabbit Robot" and programming both robots.  
 
 ## 🌱 Recent Learning
 I'm always learning and trying to improve my skills. Here are some of the things I've been learning recently:
