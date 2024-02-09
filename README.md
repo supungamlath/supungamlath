@@ -6,12 +6,12 @@ When I'm not buried under university studies, you'll catch me hiking with buddie
 ## 🔭 Current Projects
 Here is the latest project I'm working on:
 
-* Autonomous Robot Navigation - I'm using a Kobuki robot powered by a Jetson Nano B01 and Xbox360 Kinect Camera to autonomously map and navigate an arena, using ROS2 Foxy and packages such as nav2, rtabmap_ros, and kinect_ros2.
+* Spiking Neural Network based Fall Detection - I'm experimenting with Spiking Neural Networks based on the Leaky Integrate-and-Fire (LIF) neuron model trained using the Surrogate Gradient Learning technique. I found that SNNs can provide higher accuracy with less hidden neurons on temporal data compared to traditional neural networks such as LSTMs. Checkout my work on [Google Colab](https://colab.research.google.com/drive/1Z5PTc3Ewr9tXEOicDQMDi3f-6Z-2MzVp?usp=sharing) 
 
 ## 🚀 Recent Projects
 Here are some of the recent projects I completed:
 
-* [Fall Detection App](https://fall-detection.streamlit.app/) - Developed a Streamlit app with openpifpaf and PyTorch utilizing a LSTM model for human fall detection.
+* [Fall Detection App](https://fall-detection.streamlit.app/) - Developed a Streamlit app with openpifpaf and PyTorch utilizing a LSTM model for human fall detection. Currently improving the fall detection accuracy with Spiking Neural Networks (SNNs) to replace the large LSTM model. 
 * [IFS x Hatch ChallengerX Program](https://ifs-challengerx.hatch.lk/) - AI/ML Incubator program by IFS and Hatch focusing on developing models to predcit damage caused by natural disasters.
 * [Asia Pacific RoboCon 2023](https://supungamlath.github.io/rabbit-robot.html) - International Robotics competition held in Phnom Penh, Cambodia. Our team of 3 undergrads was selected to represent Sri Lanka and we developed two robots for the given task. I was responsible for constructing the "Rabbit Robot" and programming both robots.  
 
