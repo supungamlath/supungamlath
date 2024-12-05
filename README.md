@@ -1,7 +1,7 @@
 # Hi there, I'm Supun Gamlath 👋
 I'm an undergraduate at the Department of Computer Science and Engineering, University of Moratuwa. I'm passionate about artificial intelligence and robotics programming. I love to collaborate with others and continuously expand my knowledge. 
 
-When I'm not buried under university studies, you'll catch me hiking with buddies, diving into hackathons, or tinkering away on some cool project!
+When I'm not occupied with university studies, you'll catch me hiking with buddies, diving into hackathons, or tinkering away on some cool project!
 
 ## 🔭 Current Projects
 Here is the latest project I'm working on:
